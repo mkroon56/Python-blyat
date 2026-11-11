@@ -1,0 +1,36 @@
+# Markus 11.11.26
+
+# Kolmnurk
+import turtle
+
+turtle.speed(0)
+turtle.up()
+turtle.goto(-400,200)
+turtle.down()
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+turtle.left(90)
+turtle.up()
+turtle.goto(0,200)
+turtle.down()
+turtle.left(120)
+turtle.forward(200)
+turtle.left(150)
+turtle.fd(100)
+turtle.right(120)
+turtle.fd(100)
+turtle.left(150)
+turtle.fd(200)
+turtle.up()
+turtle.goto(200,0)
+turtle.down()
+turtle.left(90)
+turtle.fd(100)
+turtle.left(90)
+turtle.fd(100)
+turtle.circle(50,180)
+turtle.fd(100)
+
